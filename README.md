@@ -5,7 +5,7 @@ Installation
 Clone the repository to your local machine:
 bash
  
-git clone https://github.com/your_username/amazon-clone.git
+git clone https://github.com/omchaudhary1220/amazon-clone.git
 Navigate to the project directory:
 bash
  
