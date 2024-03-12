@@ -1,0 +1,1 @@
+# This is a clone of amazon E-commrce website which facilate all the functionallity of Amazon.
